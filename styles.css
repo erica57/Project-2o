@@ -1,0 +1,36 @@
+body{
+    background-color:#9ab6e2;
+    text-align:center;
+}
+
+h1{
+    font-family: 'Allerta Stencil', sans-serif;
+    color:#003f60;
+}
+
+h2{
+   font-family: 'Ranga', cursive;
+   color:#bc2085;
+}
+
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  color:#bc203f;
+}
+
+.icecream{
+          color:#9022bf;
+}
+
+.color{
+       color:#ef7f4f;
+}
+
+.artist{
+        color:#229694;
+}
+
+.shows{
+    color:#136028;
+}
+    
